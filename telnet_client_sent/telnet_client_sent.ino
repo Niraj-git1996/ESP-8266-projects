@@ -11,7 +11,7 @@
 #define MAX_SRV_CLIENTS 10    // define  the max client to be connected
 
 const char *ssid = "SSC"; // The SSID (name) of the Wi-Fi network you want to connect to
-const char *password = "CHORASIYA123@"; // The password of the Wi-Fi network
+const char *password = "XXXXXXXXXXXX23@"; // The password of the Wi-Fi network
 
 WiFiServer server(23);
 WiFiClient serverClients[MAX_SRV_CLIENTS]; // making array of object depend upon clients connected
